@@ -1,4 +1,4 @@
-n = int(input("Enter a number: "))
+n = 121 
 
 temp = n
 rev = 0
